@@ -1,0 +1,50 @@
+1. Get Started -> Main Menu:
+	I. Insurance Claims
+	II. MediCash Dengue
+	III. Safe Trip
+	IV. Compulsary Third Party Liability
+	V. Motor Protect
+	VI. Careers
+
+	*above represents as carousel*
+
+I. input type, first name, last name, address, email, mobile number, policy number
+
+II. If clicked "MediCash Dengue":
+	*quick reply*
+
+	a. Apply
+		*quick reply*
+		
+		-Online via Insure Shop
+			•Medicash Dengue
+			•Safe Trip
+			•Cumpolsory Third Party Liability
+
+			*each button will redirect to a page*
+
+		-Participating Stores
+			•SM Stores
+			•USSC
+			•Pioneer Branches
+
+			*when clicked any of the participating stores, will ask to send location to suggest nearest store*
+
+	b. Back to menu
+		*back to Main Menu*
+
+III. same as II
+IV. same as II
+V. If clicked "Motor Protect":
+	*quick reply*
+
+	a. Apply
+		*same as II -> a*
+
+	b. Claim
+		* when clicked, will ask for "policy number to inquire status" *
+		* if policy number is correct: "Thank you. You insurance claim is already ready to be claimed at any our participating stores."*
+
+VI. If clicked "Careers"
+	reply:
+	"Thank you for your interest. Email us today at talentacquisition@pioneer.com.ph. Attach your updated resume in .doc or .pdf format."
